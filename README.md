@@ -23,6 +23,9 @@ References et liens pour le workshop radioamateur au Mapping festival 2023
 * Kit pour apprendre le morse: http://www.morserino.info/
 * Site Internet avec la méthode Koch pour apprendre le Morse: https://lcwo.net/ 
 
+## Modes numériques 
+* Carte des liens WSPR en temps réel: http://wspr.rocks/ 
+
 ## Réseau IP
 * Réseau IP Hamnet, stations et carte: https://hamnetdb.net/ 
 
@@ -30,13 +33,17 @@ References et liens pour le workshop radioamateur au Mapping festival 2023
 * Carte de relais radioamateurs en Europe: https://repeatermap.de/
 
 ## Examen
-* Examen radioamateur en Suisse (questions d'examen, inscription): [Examen Radioamateur (OFCOM Suisse)](https://www.bakom.admin.ch/bakom/fr/page-daccueil/frequences-et-antennes/examens-de-radiocommunication/examens-de-radioamateur.html)
+* Examen radioamateur en Suisse (questions d'examen, inscriptions): [Examen Radioamateur (OFCOM Suisse)](https://www.bakom.admin.ch/bakom/fr/page-daccueil/frequences-et-antennes/examens-de-radiocommunication/examens-de-radioamateur.html)
+* Livre sur l'examen Radioamateur: http://www.pilloud.net/op_web/
 
 ## Club et associations radioamateurs
 * Faitière Suisse: https://www.uska.ch/
 * Club Genève: https://www.hb9g.ch/
 * Radioamateurs Vaudois: https://hb9mm.com/ 
 * Club Romand IAPC (transmission de données et Amateur TV): http://www.iapc.ch
+
+## Divers
+* Le "Facebook" des radioamateur" https://www.qrz.com
 
 # Partie 3: L'environnement électromagnétiques de nos jours
 
