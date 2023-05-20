@@ -12,5 +12,5 @@ References et liens pour le workshop radioamateur au Mapping festival 2023
 # Radioamateurs
 * Carte de relais radioamateurs en Europe: https://repeatermap.de/
 
-* Examen radioamateur en Suisse (questions d'examen, inscription): https://www.bakom.admin.ch/bakom/fr/page-daccueil/frequences-et-antennes/examens-de-radiocommunication/examens-de-radioamateur.html
+* Examen radioamateur en Suisse (questions d'examen, inscription): [Examen Radioamateur (OFCOM Suisse)](https://www.bakom.admin.ch/bakom/fr/page-daccueil/frequences-et-antennes/examens-de-radiocommunication/examens-de-radioamateur.html)
 
