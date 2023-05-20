@@ -12,8 +12,10 @@ References et liens pour le workshop radioamateur au Mapping festival 2023
 ## SDR
 * Plateforme SDR d'écoute en ondes courtes/moyennes/longues publiques dans le monde: http://kiwisdr.com/public/
 * Plateforme SDR d'écoute publiques en HF et VHF/UHF: https://www.receiverbook.de/ 
-
-
+-
+* Emettre avec le raspberri Pi : https://github.com/F5OEO/rpitx
+* Emettre avec un adaptateur VGA: [FL2K](https://osmocom.org/projects/osmo-fl2k/wiki/Osmo-fl2k)
+-
 * Site de référence pour la réception SDR lowcost avec dongles USB RTL-SDR: https://www.rtl-sdr.com/
 * Répertoire (wiki) de signaux: https://www.sigidwiki.com/
 
