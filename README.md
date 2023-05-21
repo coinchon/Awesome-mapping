@@ -19,6 +19,11 @@ References et liens pour le workshop radioamateur au Mapping festival 2023
 * Site de référence pour la réception SDR lowcost avec dongles USB RTL-SDR: https://www.rtl-sdr.com/
 * Répertoire (wiki) de signaux: https://www.sigidwiki.com/
 
+## Satellite
+* Logiciel de tracking de satellites: [Gpredict](http://gpredict.oz9aec.net/)
+* Communauté de stations terrestres Open Source: https://satnogs.org/
+* Visualisation en temps réel des satellites Starlink: https://starlink.sx/
+
 # Partie 2: Radioamateurs
 
 ## Morse
