@@ -1,5 +1,8 @@
 # Awesome-mapping
-References et liens pour le workshop radioamateur au Mapping festival 2023
+References et liens pour le [Workshop"Les radioamateurs - pour un accès citoyen aux ondes radio"](https://www.mappingfestival.com/evenement/44/Les%20radioamateurs%20%20pour%20un%20acc%C3%A8s%20citoyen%20aux%20ondes%20radio) du 21 Mai au Mapping festival 2023
+
+**Le 24 Mai a lieu le [workshop Demystifying the Aether](https://www.mappingfestival.com/evenement/3/Demystifying%20the%20%C3%86ther), des places sont encore disponibles, n'hésitez pas à vous inscrire.**
+
 
 # Partie 1: Le spectre radio
 ## Ondes ultra-longues VLF
@@ -57,4 +60,7 @@ References et liens pour le workshop radioamateur au Mapping festival 2023
 * [La carte des stations de téléphonie mobile et radiodiffusion en Suisse](https://map.geo.admin.ch/?topic=funksender&lang=fr&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.bakom.mobil-antennenstandorte-5g,ch.bakom.radio-fernsehsender,ch.bakom.mobil-antennenstandorte-gsm,ch.bakom.mobil-antennenstandorte-umts,ch.bakom.mobil-antennenstandorte-lte&catalogNodes=403,408)
 * [Fiches d'informations de la Confédération sur les rayonnements](https://www.bag.admin.ch/bag/fr/home/gesund-leben/umwelt-und-gesundheit/strahlung-radioaktivitaet-schall/elektromagnetische-felder-emf-uv-laser-licht/emf.html)
 *  Site marchand d'équipement de mesure et de blindage: https://gigahertz-solutions.de/ 
-*  
+
+
+
+
