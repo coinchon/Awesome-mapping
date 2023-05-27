@@ -13,18 +13,17 @@ References et liens pour le [Workshop"Les radioamateurs - pour un accès citoyen
 # Partie 1: Le spectre radio
 ## Ondes ultra-longues VLF
 * Un site de référence pour l'écoute en ondes ultra longues (VLF): http://www.vlf.it/
-* Le livre Radio Nature sur les phénomènes naturels en ondes ultra longues et leur écoute: https://www.rsgbshop.org/acatalog/Radio-Nature-1211.html
-
+* Le livre ["Radio Nature"](https://www.rsgbshop.org/acatalog/Radio-Nature-1211.html) sur les phénomènes naturels en ondes ultra longues et leur écoute
 ## Propagation
 * La Météo spatiale: https://spaceweather.com/ 
 
 ## SDR
-* Plateforme SDR d'écoute en ondes courtes/moyennes/longues publiques dans le monde: http://kiwisdr.com/public/
-* Plateforme SDR d'écoute publiques en HF et VHF/UHF: https://www.receiverbook.de/ 
--
+* Plateformes SDR web d'écoute en ondes courtes/moyennes/longues publiques dans le monde: http://kiwisdr.com/public/
+* Plateformes SDR web d'écoute publiques en HF et VHF/UHF: https://www.receiverbook.de/ 
+
 * Emettre avec le raspberri Pi : https://github.com/F5OEO/rpitx
 * Emettre avec un adaptateur VGA: [FL2K](https://osmocom.org/projects/osmo-fl2k/wiki/Osmo-fl2k)
--
+
 * Site de référence pour la réception SDR lowcost avec dongles USB RTL-SDR: https://www.rtl-sdr.com/
 * Répertoire (wiki) de signaux: https://www.sigidwiki.com/
 
