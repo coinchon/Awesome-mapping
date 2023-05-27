@@ -34,7 +34,10 @@ References et liens pour le [Workshop"Les radioamateurs - pour un accès citoyen
 * Site Internet avec la méthode Koch pour apprendre le Morse: https://lcwo.net/ 
 
 ## Modes numériques 
-* Carte des liens WSPR en temps réel: http://wspr.rocks/ 
+* Le protocole d'envoi avec des signaux très faibles: [WSPR, Weak Signal Propagation Reporting](https://en.wikipedia.org/wiki/WSPR_(amateur_radio_software))
+* - Carte des liens WSPR en temps réel: http://wspr.rocks/ 
+* Le mode d'échange [FT8](https://www.leradioscope.fr/trafic/2016-03-30-14-42-59/ft8) avec des signaux très faibles
+* Transfert d'images par [SSTV, télévision à balaage lent](https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9vision_%C3%A0_balayage_lent)
 
 ## Réseau IP
 * Réseau IP Hamnet, stations et carte: https://hamnetdb.net/ 
