@@ -1,7 +1,7 @@
 # Awesome-mapping
 References et liens pour le [Workshop"Les radioamateurs - pour un accès citoyen aux ondes radio"](https://www.mappingfestival.com/evenement/44/Les%20radioamateurs%20%20pour%20un%20acc%C3%A8s%20citoyen%20aux%20ondes%20radio) du 21 Mai au Mapping festival 2023
 
-**Le 24 Mai a lieu le [workshop Demystifying the Aether](https://www.mappingfestival.com/evenement/3/Demystifying%20the%20%C3%86ther), des places sont encore disponibles, n'hésitez pas à vous inscrire.**
+En parallèle a eu lieu le [workshop Demystifying the Aether](https://www.mappingfestival.com/evenement/3/Demystifying%20the%20%C3%86ther)
 
 
 # Partie 1: Le spectre radio
