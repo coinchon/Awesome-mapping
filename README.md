@@ -1,14 +1,14 @@
 # Awesome-mapping
 References et liens pour le [Workshop"Les radioamateurs - pour un accès citoyen aux ondes radio"](https://www.mappingfestival.com/evenement/44/Les%20radioamateurs%20%20pour%20un%20acc%C3%A8s%20citoyen%20aux%20ondes%20radio) du 21 Mai au Mapping festival 2023
 
-**Présentation du Workshop:
+*(Un autre workshop radio a eu lieu au Mapping Festival: [workshop Demystifying the Aether](https://www.mappingfestival.com/evenement/3/Demystifying%20the%20%C3%86ther))*
+
+
+# Présentation du Workshop:
+
 * [Partie 1 - L'introduction aux ondes électromagnétiques](mapping_amateur_radio_pub_part1.pdf)
 * [Partie 2 - Utilisation des ondes et radioamateurs](mapping_amateur_radio_pub_part2.pdf)
 * [Partie 3 - L'environnement électromagnétique de nos jours](mapping_amateur_radio_pub_part3.pdf)
-
-
-* *En parallèle a eu lieu le [workshop Demystifying the Aether](https://www.mappingfestival.com/evenement/3/Demystifying%20the%20%C3%86ther)
-
 
 # Partie 1: Le spectre radio
 ## Ondes ultra-longues VLF
