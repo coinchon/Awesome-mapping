@@ -10,29 +10,29 @@ References et liens pour le [Workshop"Les radioamateurs - pour un accès citoyen
 * [Partie 2 - Utilisation des ondes et radioamateurs](mapping_amateur_radio_pub_part2.pdf)
 * [Partie 3 - L'environnement électromagnétique de nos jours](mapping_amateur_radio_pub_part3.pdf)
 
-# Partie 1: Le spectre radio
+# Références Partie 2: Utilisation des ondes
 ## Ondes ultra-longues VLF
 * Un site de référence pour l'écoute en ondes ultra longues (VLF): http://www.vlf.it/
 * Le livre ["Radio Nature"](https://www.rsgbshop.org/acatalog/Radio-Nature-1211.html) sur les phénomènes naturels en ondes ultra longues et leur écoute
 ## Propagation
 * La Météo spatiale: https://spaceweather.com/ 
 
+## Signaux Radio
+** Répertoire (wiki) de signaux radio: https://www.sigidwiki.com/
+
 ## SDR
 * Plateformes SDR web d'écoute en ondes courtes/moyennes/longues publiques dans le monde: http://kiwisdr.com/public/
 * Plateformes SDR web d'écoute publiques en HF et VHF/UHF: https://www.receiverbook.de/ 
-
+* Site de référence pour la réception SDR lowcost avec dongles USB RTL-SDR: https://www.rtl-sdr.com/
 * Emettre avec le raspberri Pi : https://github.com/F5OEO/rpitx
 * Emettre avec un adaptateur VGA: [FL2K](https://osmocom.org/projects/osmo-fl2k/wiki/Osmo-fl2k)
-
-* Site de référence pour la réception SDR lowcost avec dongles USB RTL-SDR: https://www.rtl-sdr.com/
-* Répertoire (wiki) de signaux: https://www.sigidwiki.com/
 
 ## Satellite
 * Logiciel de tracking de satellites: [Gpredict](http://gpredict.oz9aec.net/)
 * Communauté de stations terrestres Open Source: https://satnogs.org/
 * Visualisation en temps réel des satellites Starlink: https://starlink.sx/
 
-# Partie 2: Radioamateurs
+# Références Partie 2: Radioamateurs
 
 ## Morse
 * Kit pour apprendre le morse: http://www.morserino.info/
@@ -63,7 +63,7 @@ References et liens pour le [Workshop"Les radioamateurs - pour un accès citoyen
 ## Divers
 * Le "Facebook" des radioamateur" https://www.qrz.com
 
-# Partie 3: L'environnement électromagnétiques de nos jours
+# Références Partie 3: L'environnement électromagnétiques de nos jours
 
 * [La carte des stations de téléphonie mobile et radiodiffusion en Suisse](https://map.geo.admin.ch/?topic=funksender&lang=fr&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.bakom.mobil-antennenstandorte-5g,ch.bakom.radio-fernsehsender,ch.bakom.mobil-antennenstandorte-gsm,ch.bakom.mobil-antennenstandorte-umts,ch.bakom.mobil-antennenstandorte-lte&catalogNodes=403,408)
 * [Fiches d'informations de la Confédération sur les rayonnements](https://www.bag.admin.ch/bag/fr/home/gesund-leben/umwelt-und-gesundheit/strahlung-radioaktivitaet-schall/elektromagnetische-felder-emf-uv-laser-licht/emf.html)
