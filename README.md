@@ -18,7 +18,7 @@ References et liens pour le [Workshop"Les radioamateurs - pour un accès citoyen
 * La Météo spatiale: https://spaceweather.com/ 
 
 ## Signaux Radio
-** Répertoire (wiki) de signaux radio: https://www.sigidwiki.com/
+* Répertoire (wiki) de signaux radio: https://www.sigidwiki.com/
 
 ## SDR
 * Plateformes SDR web d'écoute en ondes courtes/moyennes/longues publiques dans le monde: http://kiwisdr.com/public/
